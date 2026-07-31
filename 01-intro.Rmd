@@ -1,4 +1,4 @@
-<!-- # Libro de Mary {#intro} -->
+<!-- #Probando 1, 2, 3 {#intro} -->
 ```{r}
 
 ```
